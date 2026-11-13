@@ -1,4 +1,4 @@
-{
+p{
     "$schema": "https://raw.githubusercontent.com/prototypicalpro/repolinter/master/rulesets/schema.json",
     "version": 2,
     "axioms": {},
